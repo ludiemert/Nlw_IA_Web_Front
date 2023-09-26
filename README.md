@@ -18,19 +18,25 @@
 <h3 id="project">📁 Project</h3>
 
 
-    The project consists of a generator of descriptions and titles for YouTube videos based on content transcription.
+    The project consists of a generator of descriptions and titles for YouTube
+         videos based on content transcription.
 
     The project's front-end is available in this GitHub repository. The back-end is 
               now available [here](https://github.com/ludiemert/Nlw_IA_Web_Back_End)
 
 #### React + TypeScript + Vite
 
-    This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+    This template provides a minimal setup to get React working in Vite with
+         HMR and some ESLint rules.
 
  ## 1 - Project interface
+ ![upload.ai](./public/1_project.png)
+ 
 ![image](https://github.com/ludiemert/Nlw_IA_Web_Front/public/1_project.png)
 
 ## 2 - Project interface
+ ![upload.ai](./public/2_project.png)
+ 
 ![image](https://github.com/ludiemert/Nlw_IA_Web_Front/public/2_project.png)
 
 
@@ -50,8 +56,8 @@
 
 - <h3 id="usage">💡 Usage</h3>
 
-    To run the application on your machine locally, make sure you have `Node.js` and `pnpm` installed
-  before proceeding with the steps below:
+    To run the application on your machine locally, make sure you have `Node.js`
+       and `pnpm` installed before proceeding with the steps below:
 
 1. Clone the project:
 
@@ -80,23 +86,25 @@ $ npm run dev
 - <h3 id="about">💻 About the project </h3>
 
 
-      At the Rocketseat NLW event, with a special edition focused on Artificial Intelligence (AI).
-      A project was developed using the OpenAI API, which involves uploading a video for the
-             API to transcribe into text. 
-      It generates coherent titles and descriptions based on the content of the uploaded video.
+      At the Rocketseat NLW event, with a special edition focused on
+        Artificial Intelligence (AI).
+      A project was developed using the OpenAI API, which involves uploading a video
+            for the API to transcribe into text. 
+      It generates coherent titles and descriptions based on the content of the
+            uploaded video.
 
-      For front-end development, React.js, Tailwind.css, Shadcn for stylized components and
-            Web Assembly were used. Web Assembly 
-      is a technology that allows us to run things on the web that are not traditionally
-            web-based, among other technologies.
+      For front-end development, React.js, Tailwind.css, Shadcn for stylized
+            components and Web Assembly were used. Web Assembly 
+            is a technology that allows us to run things on the web that are not
+            traditionally web-based, among other technologies.
 
-      On the back-end, Node.js was used, along with Fastify to handle API requests and
-             routes, and Prisma as the database ORM, among other technologies.
+      On the back-end, Node.js was used, along with Fastify to handle API requests
+            and routes, and Prisma as the database ORM, among other technologies.
 
 
 #### 📝 Licença
 
-      Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+     This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
