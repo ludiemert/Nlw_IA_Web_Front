@@ -21,17 +21,17 @@
     The project consists of a generator of descriptions and titles for YouTube videos based on content transcription.
 
     The project's front-end is available in this GitHub repository. The back-end is 
-              now available [here](https://github.com/ludiemert/Nlw_IA_Web_Back_End).
+              now available [here](https://github.com/ludiemert/Nlw_IA_Web_Back_End)
 
 #### React + TypeScript + Vite
 
     This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
  ## 1 - Project interface
-![image](https://github.com/ludiemert/Nlw_IA_Web_Front/public/1_project)
+![image](https://github.com/ludiemert/Nlw_IA_Web_Front/public/1_project.png)
 
 ## 2 - Project interface
-![image](https://github.com/ludiemert/Nlw_IA_Web_Front/public/2_project)
+![image](https://github.com/ludiemert/Nlw_IA_Web_Front/public/2_project.png)
 
 
 <h3 id="technologies">💻 Technologies</h3>
