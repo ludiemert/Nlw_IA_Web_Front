@@ -20,10 +20,10 @@
 
     The project consists of a generator of descriptions and titles for YouTube
          videos based on content transcription.
-
-    The project's front-end is available in this GitHub repository. The back-end is 
-      now available [here](https://github.com/ludiemert/Nlw_IA_Back_End).
-      [aqui](https://github.com/madalena-rocha/upload-ai-web).
+   
+      
+The project's front-end is available in this GitHub repository. The back-end is 
+      now available:  [here](https://github.com/ludiemert/Nlw_IA_Web_Front).
 
 #### React + TypeScript + Vite
 
