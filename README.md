@@ -50,7 +50,8 @@
 
 - <h3 id="usage">💡 Usage</h3>
 
-    To run the application on your machine locally, make sure you have `Node.js` and `pnpm` installed before proceeding with the steps below:
+    To run the application on your machine locally, make sure you have `Node.js` and `pnpm` installed
+  before proceeding with the steps below:
 
 1. Clone the project:
 
@@ -80,13 +81,17 @@ $ npm run dev
 
 
       At the Rocketseat NLW event, with a special edition focused on Artificial Intelligence (AI).
-      A project was developed using the OpenAI API, which involves uploading a video for the API to transcribe into text. 
+      A project was developed using the OpenAI API, which involves uploading a video for the
+             API to transcribe into text. 
       It generates coherent titles and descriptions based on the content of the uploaded video.
 
-      For front-end development, React.js, Tailwind.css, Shadcn for stylized components and Web Assembly were used. Web Assembly 
-      is a technology that allows us to run things on the web that are not traditionally web-based, among other technologies.
+      For front-end development, React.js, Tailwind.css, Shadcn for stylized components and
+            Web Assembly were used. Web Assembly 
+      is a technology that allows us to run things on the web that are not traditionally
+            web-based, among other technologies.
 
-      On the back-end, Node.js was used, along with Fastify to handle API requests and routes, and Prisma as the database ORM, among other technologies.
+      On the back-end, Node.js was used, along with Fastify to handle API requests and
+             routes, and Prisma as the database ORM, among other technologies.
 
 
 #### 📝 Licença
