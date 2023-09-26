@@ -23,6 +23,7 @@
 
     The project's front-end is available in this GitHub repository. The back-end is 
       now available [here](https://github.com/ludiemert/Nlw_IA_Back_End).
+      [aqui](https://github.com/madalena-rocha/upload-ai-web).
 
 #### React + TypeScript + Vite
 
